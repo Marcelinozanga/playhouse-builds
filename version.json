@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png",
-  "changelog": "Teste inicial de atualização com download de arquivo fake."
+  "latestVersion": "1.1.0",
+  "apkUrl": "https://github.com/Marcelinozanga/playhouse-builds/releases/download/1.1.0/PlayHouse.Manager.apk",
+  "changelog": "Melhorias na interface e experiência do usuário", " Funcionalidade de criação de funcionários", "Bugs fixed"
 }
